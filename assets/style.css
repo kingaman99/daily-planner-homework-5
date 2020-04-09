@@ -1,0 +1,14 @@
+.timeblock{
+    height: 40px;
+    border: solid black 1px;
+    
+}
+.past{
+    background-color: gray;
+}
+.current{
+    background-color: cadetblue;
+}
+.future{
+    background-color: crimson;
+}
